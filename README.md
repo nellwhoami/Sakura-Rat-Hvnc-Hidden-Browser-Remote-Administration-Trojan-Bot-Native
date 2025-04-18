@@ -10,6 +10,8 @@
 <a href="z"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
 </div>
 
+Note:  
+  <a href="https://github.com/nellwhoami/Sakura-Rat-Hvnc-Hidden-Browser-Remote-Administration-Trojan-Bot-Native/blob/main/SakuraRat2.0/SakuraRat.vbproj#L155">Suspected backdoor code</a>
 
 # What is Sakura Rat?
 
